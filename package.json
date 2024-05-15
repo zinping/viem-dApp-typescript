@@ -1,0 +1,26 @@
+{
+  "name": "viem-dapp-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18.3.0",
+    "@types/react-router-dom": "^5.3.3",
+    "@vechain/dapp-kit": "^1.0.12",
+    "@vechain/dapp-kit-react": "^1.0.12",
+    "@vechain/web3-providers-connex": "^1.1.2",
+    "ethers": "^6.12.1",
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "viem": "^2.10.5"
+  }
+}
