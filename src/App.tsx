@@ -5,7 +5,7 @@ import {
   useWalletModal,
   useWallet,
 } from "@vechain/dapp-kit-react";
-// import Counter from "./Counter";
+import Counter from "./Counter";
 
 export default function App() {
   return (
